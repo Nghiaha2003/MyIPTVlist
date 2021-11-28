@@ -2,7 +2,6 @@
 
 
 
-
 #-*--VTV-*--#
 #EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://vthanh.xyz/ic/1.png" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV1 HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
